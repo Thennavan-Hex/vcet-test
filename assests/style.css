@@ -1,0 +1,50 @@
+body{
+    background-image: url('./img/bg.jpg');
+    background-size: cover;
+    color: aqua;
+}
+
+header{
+    background-color: white;
+    border:0 30px;
+    border-radius: 30px;
+}
+.navbar{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+ul a{
+    color: black;
+    font-size: 30px;
+    padding:0 10px;
+    text-decoration: none;  
+}
+header li{
+    float: left;
+    margin-left: 20%;
+    padding:0x 30px;
+    gap: 0px;
+    text-align: center;
+}
+header li:hover{
+    background-color: black;
+    border-radius:0px 5px;
+}
+header a:hover{
+    color: white;
+}
+.landing-div{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20%;
+}
+.landing p{
+    font-size: 20px;
+    color:white;
+    margin:0px 40% 50% 30%;
+}
