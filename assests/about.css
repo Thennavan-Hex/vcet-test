@@ -1,0 +1,44 @@
+header {
+    background-color: white;
+    border: 0 30px;
+    border-radius: 30px;
+}
+
+.navbar {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul a {
+    color: black;
+    font-size: 30px;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+header li {
+    float: left;
+    margin-left: 20%;
+    padding: 0x 30px;
+    gap: 0px;
+    text-align: center;
+}
+
+header a:hover {
+    color: lightseagreen;
+}
+
+.form {
+    position: relative;
+    margin: 20%;
+    background-color: rgb(177, 180, 180);
+    padding: 80px;
+    border-radius: 20px;
+    
+}

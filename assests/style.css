@@ -48,3 +48,8 @@ header a:hover{
     color:white;
     margin:0px 40% 50% 30%;
 }
+.aboutform{
+    background-color: black;
+    margin:20%;
+    padding: 40px;
+}
