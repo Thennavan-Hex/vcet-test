@@ -40,5 +40,46 @@ header a:hover {
     background-color: rgb(177, 180, 180);
     padding: 80px;
     border-radius: 20px;
-    
+}
+
+.form label {
+    font-size: 40px;
+}
+
+.form input {
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.form .email input {
+    padding: 10px;
+    width: 60%;
+}
+
+.form .subject input {
+    padding: 10px;
+    width: 60%;
+}
+
+.form .command input {
+    width: 70%;
+    margin: 10%;
+    padding-bottom: 50%;
+    padding-right: 30px;
+    word-wrap: break-word;
+  word-break: break-word;
+}
+
+.b1 {
+    background-color: rgb(16, 109, 55);
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-left: 40%;
+    color: white;
+}
+
+.b1:hover {
+    background-color: rgb(25, 163, 82);
 }
